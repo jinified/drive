@@ -1,0 +1,90 @@
+Use TOR for every tools
+always spoof your mac address and make sure is legit 
+Browser: refcontrol, override user agent, betterprivacy, ghostery, trackmenot,no script, httpseverywhere, startpage, no flash, nop cookies 
+
+Local Net Security: macchanger, put /boot in usb,dm-crypt+LUKS
+using shred command to delete, clear log 
+
+Virtualisation 
+- set path of vm to external disk 
+- Whonix 
+- liveusb:=tails, liberte
+
+IP address
+- SOCKS proxy - Dante, ss5 
+- proxy chaining 
+- code your own botnet proxies, 3proxy 
+- setup ssh and vpn 
+
+remove bash history 
+clear event log 
+netcat, dban, cat /dev/null
+use pgp email 
+manipulate log file - zap, cloak, 
+
+HITB
+
+Steven Vittitoe 
+
+Reverse engineering 
+- crack me program. sat solver 
+- patch me program. for memory 
+- IDA pro
+
+Binary Exploitation
+- debugger. PEDA GDB 
+- read file over socket 
+- stack overflow, heap overflow, format string bug, integer over/underflow 
+  write a c program with these and dissamble them 
+- hacking the art of exploitation, art of software security assessment 
+- DEP & ASLR
+
+Network analysis 
+- decode ext3 file system being accessed over Ethernet 
+- beyond wireshark
+
+Cryptography
+- Applied Cryptography 
+- Coursera 
+
+Forensics
+- Disk images, stego in images, 010 hex editopr, 
+
+Web Exploitation 
+- PHP & MYSQL
+- SQLi, XSS, File Includes
+- Sqlmap, curl to help 
+- look at full headers
+
+Tactical
+- DNS scan 
+- inetd, fork, shellcode
+- Ulimit -s 
+
+JohnTheRipper 
+Hacking with Perl & Bash 
+ExploitX paper - remote buffer overflow 
+objdump
+gdb
+ktrace
+
+Network capture analysis.
+    Web application penetration testing.
+    Reverse engineering.
+    Remote service vulnerability discovery.
+    Custom exploit development.
+    IPS evasion (only trivial rules, though)
+    Basic cryptanalysis.
+    Bug hunt, XSS, javascript 
+    buffer overflow 
+        
+        wireshark, nmap, metasploit, snort, dsniff, ethercap, nessus, paros, owasp, web goat, sql injection, web maven 
+        iptables
+        
+        yandex, search.nerdydata.com, tapirgo, openBmap, usernamecheck, namechk,c2:ceiling cat,maltego,foca,search diggity, recorded future, cree.py, social mention
+        spokeo, meltwater, google hackign database, freebase, serversniff, netcraft, robtex, pipl, piwik,netglub,theharvester, usenet, geosetter, metagoofill, pauldotcom,livehttpsheader
+        wiggle, iGgle, androidmap, mining bing, fbstgalker, geostalkerm social engineer toolkit, scythe, pushpin, wayback machine 
+        
+        Staying anonymous 
+        
+

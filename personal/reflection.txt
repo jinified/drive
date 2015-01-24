@@ -1,0 +1,60 @@
+Observations 
+
+refuse to accept my own weaknesses and listen to my heart 
+does not believe in my own potential 
+does not go all out to protect my own rights 
+think too much for others, too considerate, afraid to hurt others 
+expect no mistakes or failures from myself(note this is different from setting high expectation)
+afraid of solitude and constantly feel the need to be doing something 
+expect eveything to go well , but life is suffering 
+distracted while coding.does not focus well
+does not take responsibility for one's action. get defensive when being critised.
+feels the need to supress emotions and always wearing a mask
+feels exhausted to maintain consistent effort in committing to something. Why ? 
+avoid problems, obstacles instead of facing it directly 
+cannot accept uncertainty , feel the need to know everything
+always make wrong assumption or gauge on some understanding without explaining it or coding it out 
+rely on assumption and imagination to predict future events. in fact nobody knows what will happen 
+oversimplify human and like to categorise people. 
+
+
+Guidance
+
+Happiness is within you, and it is achieved when you let go of your neurosis 
+Seeing, and accepting yourself and be responsible 
+People at their core is positive 
+Have compassion for yourself, you should love yourself 
+Neurotic dependency or attachment to something is bad, not that something itself 
+Nothing is forever. Everyday something changes 
+It is important to want something and begin with the mind 
+Deconstruct your thoughts and act on it to change 
+Nothing has an inherent nature of good or bad, nothing is stuck on this or that 
+Everything that we feel depends on interpretation 
+Juggle between swallowing everything and reinventing the wheels
+There is a possibility for every event, focus on your breathing, your body 
+Focus on the present with your mind and body 
+Emptiness is not nothing 
+stay hungry, stay foolish 
+what good have I done today ?
+
+Programming manifesto
+
+Be well versed in multiple paradigms of programming, but master some 
+Read lots of good code and follow good coding style guide 
+Contribute to open source project and try your own project. Learn by doing is most important 
+A programmer is lazy, impatient and hubris(good ego)
+Fight for your beliefs, but accept defeat gracefully
+Understand and accept you will make mistakes
+Simply, simply, simply. Always try the simplest working solution. No premature optimization
+Deliver early and merge often 
+Set high standard for your code
+Don't reinvent the wheel 
+Never ever assume. It is dangerous.
+Sometimes it is important to dive straight into programming to understand the problem
+Know when to give up and ask for help
+Keep learning something new everyday. 
+Know and master your toolkits 
+Negative Capability - live with uncertainty and not knowing 
+Manage your time well and learn selectively 
+
+

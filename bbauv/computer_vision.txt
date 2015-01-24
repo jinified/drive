@@ -1,0 +1,42 @@
+1 bg subtraction 
+- reference frame and sample frame 
+- set a critical value 
+- consider all channels
+
+2 sauc-e
+- noise-reduction -> gaussian filter, median filter 
+- histogram shape analysis -> optimal threshold
+- object recognition -> identify invariance needed for choosing descriptor, fourier descriptor, upright SURF, chain code 
+- adaptive thresholding -> using histogram 
+- 2D -> shape, contour, dimension reduction 
+- 3D -> SURF - lower resolution, lower sensitivity 
+
+3 French Preprocess 
+- symmetric extension into power of 2 of square img 
+- convert RGB to YCbCr 
+- homomorphic filtering -> correct non-uniform illumination 
+- wavelet denoising 
+- ansiotropric filtering -> smoothen 
+- contrast streching 
+- convert back to YCbCr and get back original size 
+
+4 Fusion method 
+- normalise brightness 
+- chromatic map, luminance map, saliency map, local contrast measure, well-exposedness then fuse together 
+
+5 ACE color method 
+
+6 Unerwater color constancy live fish 
+- using ACE
+- color moments
+- MRF segmentation histogram 
+
+7 UCM 
+- equalise RGB 
+- contrast stretch R,G,B. minimise blue and maximise red 
+- contrast stretch Saturation and Intensity channel 
+
+8 Underwater Single Image Dehazing 
+- depth map 
+- scene radiance est 
+- dark priori method but on green and blue channels only 

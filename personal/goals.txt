@@ -1,0 +1,14 @@
+MITs
+1. bbauv tasks
+2. master 1 programming language well . (c++/c)
+3. play with infosec stuff
+4. learn my tools well - vim, emac, git, bash, unix tools, debugger, latex
+5. lose my tummy and become fit. 
+6. practice buddhism - meditation, compassion, understanding 
+7. go over sicp 
+8. learn ocaml
+9. basic ui(qt, ncurses)
+10. play with python more
+11. B for all modules 
+
+
