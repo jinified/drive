@@ -1,0 +1,36 @@
+R1.
+a)O(n^2)
+b)O(n log n)
+c)O(n^2)
+
+R2
+a)property of log. summation of log k = N ln N ~ theta(N log N) 
+a) arithmethic mean summation n(n+1)/2 ~ theta(N^2)
+
+S1
+a) divide & conquer. guessing upper+lower/2. 2^9 = 512. Ken and Steven 9 each in the worst case. 
+b) 
+    i) why does it terminates ? after each round of pairing the number of students is halved. r < 1 therefore converges. 
+       what is the number in step5 ? 
+       number of additions ? log(2)n
+    ii)number of step 2 needed ? should be same as number of additions performed 
+    iii) what if not synchronized ? 
+
+
+S2
+a) Since the boys will have the best valid partner b-C is the only stable pairing 
+b)
+
+a -> A B C D    A -> a b c d 
+b -> B A C D    B -> b a c d 
+
+c) best possible rounds bound given by R(n) <= n^2-2n+2
+
+a | A C B   A | c b a 
+b | A C B   B | c b a 
+c | C A B   C | a c b
+
+S3
+
+a)i) empty, A2, empty ii) A2, A3, A8, A9 4 rooms required 
+b) bbst to store events and priority queue
