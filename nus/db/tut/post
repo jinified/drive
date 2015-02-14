@@ -1,0 +1,28 @@
+Lab 3 
+T12-Group1
+
+Questions 
+
+1. Find the total number of copies.
+
+Our solution: SELECT COUNT(*) FROM copy; 
+Tutor's solution: same 
+
+5. Find the number of different books by ‘Charles Dickens.
+
+Our solution: SELECT COUNT(b.title) FROM book b where b.authors='Charles Dickens';
+
+Tutor's solution: same 
+Comments: do not need distinct since there are no duplicates in book
+
+9. Find the names of the different students who have borrowed all the books by ‘Charles Dickens’. Use NOT EXISTS. (Note: You may also try with NOT IN and EXCEPT.)
+
+Tutor's solution: 
+
+SELECT s.name FROM student s where not exists(
+        SELECT * from book b where b.authors='Charles Dickens' AND 
+            NOT EXISTS(SELECT * FROM loan l where l.book = b.ISBN13 AND
+                    l.borrower = s.email));
+
+
+Comments:
